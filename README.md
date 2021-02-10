@@ -13,4 +13,4 @@ It is necessary to create the following on GCP or Firebase:
 
 ## Run the application
 * Build the application by running **mvn package**
-* Run the application using **java -jar ** command
+* Run the application using **java -jar** command
